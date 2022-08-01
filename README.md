@@ -25,7 +25,7 @@
 
 ### Локально
 1. Установите [Python](https://www.python.org/downloads/) версии не ниже 3.10. При установке убедитесь, что отметили галочку ![Add Python to PATH](https://sun9-east.userapi.com/sun9-17/s/v1/ig2/QxsAkYeUkCIWkOfZCyELhXQFbAKHiEdGXo4zWEkinzGT3pEtKV72GGs4tm6HnvgyC5Y1McmByppeXFKeX-PEc__Y.jpg?size=181x19&quality=96&type=album)
-2. [Скачайте](https://github.com/Cl0ckHvH/VKB_Spambot/archive/refs/heads/main.zip) и распакуйте
+2. [Скачайте](https://github.com/Cl0ckHvH/VKB_AlwaysInConversation/archive/refs/heads/main.zip) и распакуйте
 3. Откройте командную строку и введите следующую команду:
 ```sh
 pip install -r requirements.txt --upgrade
