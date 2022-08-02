@@ -1,6 +1,6 @@
 {
   "name": "VKB_AlwaysInConversation",
-  "description": "Always adder in conversation for VK on Python",
+  "description": "Always stay in conversation for VK on Python",
   "repository": "https://github.com/Cl0ckHvH/VKB_AlwaysInConversation",
   "stack": "heroku-22",  
   "env": {
