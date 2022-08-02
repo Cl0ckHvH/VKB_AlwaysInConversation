@@ -1,4 +1,4 @@
-<h1 align="center">VKB Always adder in conversation</h1>
+<h1 align="center">VKB Always stay in conversation</h1>
 <p align="center">
     <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white"></img>
 	<img alt="Python version" src="https://img.shields.io/badge/python-3.10-blue.svg"></img>
@@ -33,6 +33,9 @@ pip install -r requirements.txt --upgrade
 4. Откройте файл `config.toml` любым текстовым редактором и настройте бота под себя
 5. Для запуска введите в командную строку `bot.py`
 
-### Если у вас Windows 7
+## Полезные ссылки
 
-Поддержка Python на Windows 7 прекратилась, начиная с версии 3.9, но всё таки нашёлся человек, который сделал поддержку для Windows 7. Скачать можно [тут](https://github.com/NulAsh/cpython/releases/tag/v3.10.1win7-1)
+[Python 3.10.1 для Windows 7](https://github.com/NulAsh/cpython/releases/tag/v3.10.1win7-1)<br>
+[VK Spambot](https://github.com/Cl0ckHvH/VKB_Spambot)<br>
+[VK Message editor by command](https://github.com/Cl0ckHvH/VKB_Editmessage)<br>
+[Моя группа ВК](https://vk.com/kings_of_conversation)
